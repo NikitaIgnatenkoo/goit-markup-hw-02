@@ -33,3 +33,7 @@ color: #4d5ae5;
 .main-link:focus {
     color: #404bbf;
 }
+
+.info {
+font-style: normal;
+}
