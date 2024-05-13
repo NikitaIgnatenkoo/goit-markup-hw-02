@@ -26,10 +26,10 @@ color: #4d5ae5;
     color: #2e2f42;
 }
 
-.main-link>:hover {
+.main-link:hover {
  color: #404bbf;
 }
 
-.main-link>:focus {
+.main-link:focus {
     color: #404bbf;
 }
