@@ -34,11 +34,8 @@ color: #4d5ae5;
     color: #404bbf;
 }
 
-.header-info {
-font-style: normal;
-}
-
 .info {
+font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 150%;
