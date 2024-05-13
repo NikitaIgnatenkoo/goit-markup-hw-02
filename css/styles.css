@@ -126,6 +126,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 background-color: #FFFFFF;
+text-transform: capitalize;
 }
 
 .job-title {
@@ -136,4 +137,5 @@ line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
+background-color: #FFFFFF;
 }
