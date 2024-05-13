@@ -56,6 +56,11 @@ color: #404bbf;
 
 .section-one {
 background-color: #2e2f42;
+width: 1440px;
+height: 600px;
+}
+
+.section-one-info {
 font-weight: 700;
 font-size: 56px;
 line-height: 107%;
@@ -65,9 +70,6 @@ color: #ffffff;
 }
 
 .section-one-button {
-font-family: "Roboto", sans-serif;
-background-color: #2e2f42;
-font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
