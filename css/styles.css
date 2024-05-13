@@ -78,9 +78,9 @@ cursor: pointer;
 }
 
 .section-one-button:hover {
-    background-color: #404BBF;
+background-color: #404BBF;
 }
 
 .section-one-button:focus {
-    background-color: #404BBF;
+background-color: #404BBF;
 }
