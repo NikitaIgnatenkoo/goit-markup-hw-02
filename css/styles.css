@@ -101,3 +101,18 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 }
+
+.section-three{
+background-color: #f4f4fd;
+}
+
+.section-three-main {
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 111%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
