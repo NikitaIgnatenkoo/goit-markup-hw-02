@@ -27,7 +27,7 @@ color: #4d5ae5;
 }
 
 .main-link:hover {
- color: #404bbf;
+    color: #404bbf;
 }
 
 .main-link:focus {
@@ -35,8 +35,6 @@ color: #4d5ae5;
 }
 
 .info {
-    
-font-style: normal;
-
+    font-style: normal;
 }
 
