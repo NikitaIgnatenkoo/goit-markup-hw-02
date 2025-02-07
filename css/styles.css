@@ -1,9 +1,37 @@
-
-
-ul, ol {
-	list-style-type: none;
+/* #region Base */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fafafa;
+  color: #111111;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+address {
+  font-style: normal;
+}
+
+button {
+  cursor: pointer;
+}
 
 /* Header */
 .logo {
@@ -49,7 +77,6 @@ ul, ol {
 }
 
 .order-btn {
-background-color: #4d5ae5;
-color: #ffffff;
-
+  background-color: #4d5ae5;
+  color: #ffffff;
 }
