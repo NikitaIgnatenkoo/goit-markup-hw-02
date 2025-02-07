@@ -46,6 +46,7 @@ button {
   line-height: 21px;
   letter-spacing: 0.03em;
   text-align: left;
+  text-transform: uppercase;
 }
 
 .studio-logo {
@@ -60,6 +61,7 @@ button {
   line-height: 21px;
   letter-spacing: 0.03em;
   text-align: left;
+  text-transform: uppercase;
 }
 
 /* Hero Section */
