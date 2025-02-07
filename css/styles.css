@@ -66,19 +66,20 @@ button {
 
 /* Hero Section */
 .hero {
-  background-color: #2e2f42;
 }
-
 .hero-title {
-  color: #ffffff;
-  font-size: 56px;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  text-align: center;
-  cursor: pointer;
+}
+.hero-btn {
 }
 
-.hero-btn {
-  background-color: #4d5ae5;
-  color: #ffffff;
+/* Features Section */
+.features {
+}
+.features-list {
+}
+.features-item {
+}
+.features-subtitle {
+}
+.features-text {
 }
