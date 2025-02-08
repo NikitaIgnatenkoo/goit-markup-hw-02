@@ -1,8 +1,10 @@
 /* #region Base */
 body {
-  font-family: 'Montserrat', sans-serif;
-  background-color: #fafafa;
-  color: #111111;
+  font-family: Roboto;
+  font-weight: regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
 }
 
 h1,
@@ -32,47 +34,53 @@ address {
 button {
   cursor: pointer;
 }
+/* #endregion */
 
-/* Header */
+/* #region Header*/
 .logo {
   color: #4d5ae5;
-  width: 44px;
-  height: 21px;
-  gap: 0px;
-  opacity: 0px;
   font-family: Raleway;
-  font-size: 18px;
   font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
   line-height: 21px;
-  letter-spacing: 0.03em;
-  text-align: left;
+  letter-spacing: 3%;
   text-transform: uppercase;
 }
-
-.studio-logo {
+.dark {
   color: #2e2f42;
-  width: 71px;
-  height: 21px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Raleway;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.03em;
-  text-align: left;
-  text-transform: uppercase;
 }
+.light {
+  color: #f4f4fd;
+}
+.header-logo {
+  margin-right: 76px;
+}
+.footer-logo {
+  margin-bottom: 16px;
+}
+/* #endregion */
 
-/* Hero Section */
+/* #region Hero Section */
 .hero {
 }
 .hero-title {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 2px;
 }
 .hero-btn {
+  font-family: Roboto;
+  font-weight: medium;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 4%;
 }
+/* #endregion */
 
-/* Features Section */
+/* #region Features Section */
 .features {
 }
 .features-list {
@@ -83,8 +91,9 @@ button {
 }
 .features-text {
 }
+/* #endregion */
 
-/* <!-- Our Team --> */
+/* #region Our Team */
 .team {
 }
 .team-title {
@@ -99,8 +108,9 @@ button {
 }
 .user-text {
 }
+/* #endregion */
 
-/* Portfolio */
+/* #region Portfolio */
 .portfolio {
 }
 .portfolio-title {
@@ -115,3 +125,7 @@ button {
 }
 .portfolio-text {
 }
+/* #endregion */
+
+/* #region Footer */
+/* #endregion */
