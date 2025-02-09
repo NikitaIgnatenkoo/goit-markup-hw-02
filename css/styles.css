@@ -38,10 +38,6 @@ button {
 /* #endregion */
 
 /* #region Header*/
-/* .header {
-width: 1440px;
-height: 72px;
-} */
 .nav {
 }
 .logo {
@@ -242,6 +238,11 @@ height: 72px;
 /* #endregion */
 
 /* #region Footer */
+.footer {
+  width: 1440px;
+  height: 312px;
+  background: #2e2f42;
+}
 .footer-logo {
   margin-bottom: 16px;
 }
