@@ -1,11 +1,7 @@
 /* #region Base */
 body {
-  font-family: Roboto;
-  font-weight: regular;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 2%;
-  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  second-family: 'Raleway', sans-serif;
 }
 
 h1,
@@ -33,7 +29,21 @@ address {
 }
 
 button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  margin: 0 auto;
+  text-align: center;
   cursor: pointer;
+  text-transform: capitalize;
+  letter-spacing: 0.4em;
+  line-height: 1.5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
 }
 /* #endregion */
 
@@ -157,9 +167,10 @@ button {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .team-list {
